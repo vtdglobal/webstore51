@@ -3,6 +3,7 @@ facebook.com, 158062881538703, DIRECT, c3e20eee3f780d68
 facebook.com, 1672941479948950, DIRECT, c3e20eee3f780d68
 google.com, pub-5965765613398032, DIRECT, f08c47fec0942fa0
 google.com, pub-6172905758741898, DIRECT, f08c47fec0942fa0
+google.com, pub-6485839283816071, DIRECT, f08c47fec0942fa0
 
 pangleglobal.com, 5018532, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
